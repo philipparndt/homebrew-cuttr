@@ -1,6 +1,6 @@
 cask "cuttr" do
-  version "0.10.1"
-  sha256 "172baa9a3f4d3bc06d459b4156736dd3145f975c71d8096150d8617860fde816"
+  version "0.10.2"
+  sha256 "3b60372c20446f53e19c9da5025d71096961d981e681880daf2be0ee8443608a"
 
   url "https://github.com/philipparndt/cuttr/releases/download/v#{version}/cuttr-#{version}.dmg"
   name "cuttr"
